@@ -1,6 +1,5 @@
 <div id="top"></div>
-<h1 align="center">Rivery Mini Test - Home Assignment</h1>
-<h2 align="center">Currency Exchange Rate</h2>
+<h1 align="center">ECB Currency Exchange Rate</h1>
 
 ## About The Project
 
